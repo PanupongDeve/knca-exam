@@ -11,14 +11,12 @@
             "id": "efe48048a330eea6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "1.K8s fundamantal/1.Containers.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20250906193001.png"
               },
-              "icon": "lucide-file",
-              "title": "1.Containers"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250906193001"
             }
           },
           {
@@ -33,8 +31,7 @@
               "title": "Pasted image 20250831102605"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -183,14 +181,21 @@
   },
   "active": "218c5c341a5820f0",
   "lastOpenFiles": [
+    "1.K8s fundamantal/3.Kubernetes Architecture.md",
+    "images/Pasted image 20250906193001.png",
+    "images/Pasted image 20250906190148.png",
+    "images/Pasted image 20250906192527.png",
+    "images/Pasted image 20250906192227.png",
+    "images/Pasted image 20250906191436.png",
+    "1.K8s fundamantal/2.Container Orchestration.md",
+    "images/Pasted image 20250906191026.png",
     "1.K8s fundamantal/1.Containers.md",
+    "0.ฺBasic OS/Kernel.md",
+    "0.ฺBasic OS",
+    "images/Pasted image 20250831102605.png",
     "images/Pasted image 20250831103726.png",
     "images/Pasted image 20250831103522.png",
     "images/Pasted image 20250831102734.png",
-    "images/Pasted image 20250831102605.png",
-    "images/Pasted image 20250831101922.png",
-    "images/Pasted image 20250831101911.png",
-    "images/Pasted image 20250831101703.png",
     "images",
     "1.K8s fundamantal"
   ]
