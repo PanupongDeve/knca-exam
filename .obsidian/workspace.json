@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f96e174136412ec1",
+        "id": "4c1864b60de5daa6",
         "type": "tabs",
         "children": [
           {
-            "id": "efe48048a330eea6",
+            "id": "0454860ba348ccfe",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20250906193001.png"
+                "file": "0.ฺBasic OS/Kernel.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250906193001"
-            }
-          },
-          {
-            "id": "884107145295df06",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Pasted image 20250831102605.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250831102605"
+              "icon": "lucide-file",
+              "title": "Kernel"
             }
           }
         ]
@@ -179,23 +169,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "218c5c341a5820f0",
+  "active": "0454860ba348ccfe",
   "lastOpenFiles": [
+    "images/Pasted image 20250911221923.png",
+    "1.K8s fundamantal/5.Docker vs ContainerD.md",
+    "images/Pasted image 20250911223108.png",
+    "images/Pasted image 20250911222825.png",
+    "1.K8s fundamantal/4.Container Runtime Interface (CRI).md",
+    "images/Pasted image 20250908091059.png",
+    "images/Pasted image 20250908094513.png",
     "1.K8s fundamantal/3.Kubernetes Architecture.md",
+    "1.K8s fundamantal/2.Container Orchestration.md",
     "images/Pasted image 20250906193001.png",
+    "images/Pasted image 20250831102605.png",
     "images/Pasted image 20250906190148.png",
     "images/Pasted image 20250906192527.png",
     "images/Pasted image 20250906192227.png",
-    "images/Pasted image 20250906191436.png",
-    "1.K8s fundamantal/2.Container Orchestration.md",
-    "images/Pasted image 20250906191026.png",
     "1.K8s fundamantal/1.Containers.md",
     "0.ฺBasic OS/Kernel.md",
     "0.ฺBasic OS",
-    "images/Pasted image 20250831102605.png",
-    "images/Pasted image 20250831103726.png",
-    "images/Pasted image 20250831103522.png",
-    "images/Pasted image 20250831102734.png",
     "images",
     "1.K8s fundamantal"
   ]
